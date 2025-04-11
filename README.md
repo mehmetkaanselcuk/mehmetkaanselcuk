@@ -1,36 +1,43 @@
 ### 👋 Hi, I'm Mehmet Kaan Selçuk
 
-I'm a 2nd-year Electrical and Electronics Engineering student passionate about building the future with code, circuits, and creativity.
+I'm a 2nd-year Electrical and Electronics Engineering student. I'm interested in programming, electronics, and building small useful projects. I mainly use Java and sometimes C or MATLAB for my work.
+
+Most of the projects on this profile are simple console-based tools or games that I made to improve my skills and have fun while learning.
 
 ---
 
 ### 💡 Interests
-- 🔌 Embedded Systems & Microcontrollers (PIC, STM32, Arduino)
-- 🧠 Artificial Intelligence & Data-Driven Systems
-- 📊 Optimization and Smart Technologies
-- 💻 Languages: Java, C, MATLAB | Git & GitHub | CLI workflows
-- 🛡️ Tech for Defense, AI, and Automotive Innovation
+- ☕ Java projects (console-based)
+- ⚡ Embedded systems (PIC, Arduino)
+- 📐 Algorithms and basic calculators
+- 🛠️ Simple tools for daily use
 
 ---
 
 ### 🛠️ My Projects
 
-| Project | Description |
-|--------|-------------|
-| 📱 [Daily Dose of Words](https://github.com/mehmetkaanselcuk/daily-dose-of-words) | A Java application that helps users build their vocabulary with a daily word feed. |
-| 🔢 [Num Mystery](https://github.com/mehmetkaanselcuk/num-mystery) | A console-based Java number-guessing game that challenges logic and user interaction. |
-| 🧾 [VAT Calculator](https://github.com/mehmetkaanselcuk/VATCALCULATOR) | A simple Java program to calculate value-added tax (KDV) for given product prices. |
-| 🧮 [Grocery Cashier Calculator](https://github.com/mehmetkaanselcuk/GROCERYCASHIERCALCULATOR) | A terminal-based program that calculates total price based on fruit/vegetable weights. |
-| 📐 [Hypotenuse Calculator](https://github.com/mehmetkaanselcuk/HYPOTENUSECALCULATOR) | A basic Java utility to calculate the hypotenuse using the Pythagorean theorem. |
-| ☕ [Mood Guesser](https://github.com/mehmetkaanselcuk/MOODGUESSER) | An interactive Java program that tries to guess your mood based on your daily habits. |
-| 📈 [Ohm's Law & Power Calculator](https://github.com/mehmetkaanselcuk/OHMSLAWCALCULATOR) | A Java tool that calculates voltage, current, resistance, and power using Ohm’s law. |
+| 🗂️ Project | 📝 Description |
+|-----------|----------------|
+| 📖 [daily-dose-of-words](https://github.com/mehmetkaanselcuk/daily-dose-of-words) | Daily motivational quotes in a Java console app |
+| 🔢 [num-mystery](https://github.com/mehmetkaanselcuk/num-mystery) | Number guessing game made with Java |
+| 😊 [MOODGUESSER](https://github.com/mehmetkaanselcuk/MOODGUESSER) | Tells your mood based on your answers |
+| 🛒 [GROCERYCASHIERCALCULATOR](https://github.com/mehmetkaanselcuk/GROCERYCASHIERCALCULATOR) | Calculates total fruit & vegetable prices by weight |
+| ⚖️ [BODYMASSINDEXCALCULATOR](https://github.com/mehmetkaanselcuk/BODYMASSINDEXCALCULATOR) | BMI calculator based on height and weight |
+| 🧭 [SECTORAREA](https://github.com/mehmetkaanselcuk/SECTORAREA) | Calculates the area of a sector using radius and angle |
+| 🚕 [TAXIFARECALCULATOR](https://github.com/mehmetkaanselcuk/TAXIFARECALCULATOR) | Calculates taxi fare including base fee |
+| 📏 [HYPOTENIOUSCALCULATOR](https://github.com/mehmetkaanselcuk/HYPOTENIOUSCALCULATOR) | Finds the hypotenuse of a triangle |
+| 🧾 [VATCALCULATOR](https://github.com/mehmetkaanselcuk/VATCALCULATOR) | Calculates VAT based on Turkish rates |
+| 🎓 [GPA-CALCULATOR](https://github.com/mehmetkaanselcuk/GPA-CALCULATOR) | Calculates GPA and shows result as "pass" or "fail" |
+| 🧠 [kodluyoruzilkrepo](https://github.com/mehmetkaanselcuk/kodluyoruzilkrepo) | Includes beginner algorithm projects from bootcamp |
 
-> 📌 All projects are located in `src/Main.java` unless otherwise noted in their repositories.
+> 📂 Most code files are inside `src/Main.java` in each project folder.
 
 ---
 
-### 📫 Contact
-- 💼 LinkedIn: [linkedin.com/in/mehmetkaanselcuk](https://www.linkedin.com/in/mehmetkaanselcuk)
+### 📫 Contact Me
+
+- 💼 LinkedIn: [linkedin.com/in/mehmetkaanselcuk](https://www.linkedin.com/in/mehmetkaanselcuk)  
 - 📧 Email: mehmetkaanselcuk@hotmail.com
 
-Let’s connect and build something awesome! 🚀
+Thanks for visiting my GitHub! I'm still learning and building. 🚀
+
