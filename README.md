@@ -29,6 +29,7 @@ Most of the projects on this profile are simple console-based tools or games tha
 | 🧾 [VATCALCULATOR](https://github.com/mehmetkaanselcuk/VATCALCULATOR) | Calculates VAT based on Turkish rates |
 | 🎓 [GPA-CALCULATOR](https://github.com/mehmetkaanselcuk/GPA-CALCULATOR) | Calculates GPA and shows result as "pass" or "fail" |
 | 🧠 [kodluyoruzilkrepo](https://github.com/mehmetkaanselcuk/kodluyoruzilkrepo) | Includes beginner algorithm projects from bootcamp |
+| 🍽️ [feelbite](https://github.com/mehmetkaanselcuk/feelbite) | Suggests food, color, and tips based on your current mood |
 
 > 📂 Most code files are inside `src/Main.java` in each project folder.
 
@@ -40,4 +41,5 @@ Most of the projects on this profile are simple console-based tools or games tha
 - 📧 Email: mehmetkaanselcuk@hotmail.com
 
 Thanks for visiting my GitHub! I'm still learning and building. 🚀
+
 
